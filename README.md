@@ -8,10 +8,18 @@ First of all, a huge thanks to **Maven Analytics** for guiding me to build this 
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-
+2. [Business Problem](#business-problem)
 
 ---
 
 ## Project Overview
 
 This project involves:
+1. Creating a dashboard based on key insights during exploratory data analysis.
+2. Utilized column charts, combo charts, pivot charts, and stacked bar charts for effective visualization.
+
+---
+
+## Business Problem
+
+

@@ -24,4 +24,6 @@ This project involves:
 ## Business Problem
 
 First, let's take a look at this image below:  
+![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Email.png)
 
+As you can see, we received an email from our teammate Billy, a Business Analyst, requesting our help to build a dashboard for reporting purposes. He also included the dataset along with some interesting insights he discovered.

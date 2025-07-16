@@ -9,6 +9,7 @@ First of all, a huge thanks to **Maven Analytics** for guiding me to build this 
 
 1. [Project Overview](#project-overview)
 2. [Business Problem](#business-problem)
+3. [Seasonality Analysis](#seasonality-analysis)
 
 ---
 
@@ -32,4 +33,11 @@ As you can see, we received an email from our teammate Billy, a Business Analyst
 
 In the Excel file, there are two sheets: one contains the dataset, and the other contains the analysis prepared by our teammate. Next, we’re going to spend most of our time working in the analysis worksheet. As you can see, we clearly have a lot to figure out, so it’s better to break it down into several parts.
 
+---
+
+### 1. Seasonality Analysis
+
+![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Seasonality-Analysis.png)
+
+In this section, we analyzed seasonality to identify patterns in cancellation rates and average daily rates. During July and August, we observe a spike in both cancellation rates and average daily rates, indicating that while customers are willing to pay higher rates during summer, they are also more likely to cancel.
 

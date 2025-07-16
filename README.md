@@ -78,3 +78,5 @@ In this section, we discovered a tactical opportunity to offset cancellation-rel
 After understanding the business objective from those four key indicators, it’s now time to build the dashboard. However, before that, it’s best to first create the appropriate chart types for each key indicator identified in the previous analysis. Once we have the right charts for each indicator, we can seamlessly combine them into a comprehensive dashboard.
 
 
+
+

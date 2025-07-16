@@ -13,6 +13,7 @@ First of all, a huge thanks to **Maven Analytics** for guiding me to build this 
    - [Revenue Loss Analysis](#revenue-loss-analysis)
    - [Lead Time Impact Analysis](#lead-time-impact-analysis)
    - [Strategic Overbooking Opportunity](#strategic-overbooking-opportunity)
+3. [Creating Dashboard](#creating-dashboard)
 
 ---
 
@@ -71,4 +72,9 @@ In this section, we discovered a tactical opportunity to offset cancellation-rel
 - **Long lead-time** bookings (>30 days) have a higher cancellation rate (38%) and lower average daily rates ($169).
 
 ---
+
+## Creating Dashboard
+
+
+
 

@@ -8,7 +8,7 @@ First of all, a huge thanks to **Maven Analytics** for guiding me to build this 
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Business Problem](#business-problem)
+2. [Business Objective](#business-objective)
    - [Seasonality Analysis](#seasonality-analysis)
    - [Revenue Loss Analysis](#revenue-loss-analysis)
    - [Lead Time Impact Analysis](#lead-time-impact-analysis)
@@ -26,7 +26,7 @@ This project involves:
 
 ---
 
-## Business Problem
+## Business Objective
 
 First, let's take a look at this image below:  
 ![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/An-Email.png)

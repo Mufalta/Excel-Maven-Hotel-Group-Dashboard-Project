@@ -26,7 +26,8 @@ This project involves:
 First, let's take a look at this image below:  
 ![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/An-Email.png)
 
-As you can see, we received an email from our teammate Billy, a Business Analyst, requesting our help to build a dashboard for reporting purposes. He also included the dataset along with some interesting insights he discovered. Okay, so our next step is to open the file he attached in the email:  
+As you can see, we received an email from our teammate Billy, a Business Analyst, requesting our help to build a dashboard for reporting purposes. He also included the dataset along with some interesting insights he discovered. Okay, so our next step is to open the file he attached in the email:
+
 ![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Excel.png)
 
 In the Excel file, there are two sheets: one contains the dataset, and the other contains the analysis prepared by our teammate. Next, we’re going to spend most of our time working in the analysis worksheet.

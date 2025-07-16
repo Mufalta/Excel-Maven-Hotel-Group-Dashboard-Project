@@ -9,7 +9,7 @@ First of all, a huge thanks to **Maven Analytics** for guiding me to build this 
 
 1. [Project Overview](#project-overview)
 2. [Business Problem](#business-problem)
-3. [Seasonality Analysis](#seasonality-analysis)
+   - [Seasonality Analysis](#seasonality-analysis)
 
 ---
 
@@ -35,7 +35,7 @@ In the Excel file, there are two sheets: one contains the dataset, and the other
 
 ---
 
-### 1. Seasonality Analysis
+### Seasonality Analysis
 
 ![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Seasonality-Analysis.png)
 

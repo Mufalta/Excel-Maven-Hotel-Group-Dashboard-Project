@@ -10,6 +10,7 @@ First of all, a huge thanks to **Maven Analytics** for guiding me to build this 
 1. [Project Overview](#project-overview)
 2. [Business Problem](#business-problem)
    - [Seasonality Analysis](#seasonality-analysis)
+   - [Revenue Loss Analysis](#revenue-loss-analysis)
 
 ---
 
@@ -40,4 +41,12 @@ In the Excel file, there are two sheets: one contains the dataset, and the other
 ![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Seasonality-Analysis.png)
 
 In this section, we analyzed seasonality to identify patterns in cancellation rates and average daily rates. During July and August, we observe a spike in both cancellation rates and average daily rates, indicating that while customers are willing to pay higher rates during summer, they are also more likely to cancel.
+
+---
+
+### Revenue Loss Analysis
+
+![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Revenue-Loss-Analysis.png)
+
+In this section, we analyzed revenue loss. The data shows that July and August account for nearly $1,000,000 in revenue losses due to high cancellation rates, even though these months generate the highest revenue.
 

@@ -54,11 +54,19 @@ In this section, we analyzed revenue loss. The data shows that July and August a
 
 ---
 
+### Lead Time Impact Analysis
+
+![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Lead-Time-Impact-Analysis.png)
+
+In this section, we examined the relationship between lead time and cancellations. The data reveals that reservations booked more than 30 days in advance have significantly higher cancellation rates, with 859 cancellations compared to only 175 for bookings within 0–30 days. This indicates that long lead-time reservations are the primary contributors to revenue loss.
+
+---
+
 ### Strategic Overbooking Opportunity
 
 ![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Strategic-Overbooking-Opportunity.png)
 
-In this section, we discovered a tactical opportunity to offset cancellation-related losses:  
+In this section, we discovered a tactical opportunity to offset cancellation-related losses:
 - **Short lead-time** bookings (0–30 days) have a lower cancellation rate (20%) and higher average daily rates ($191).
 - **Long lead-time** bookings (>30 days) have a higher cancellation rate (38%) and lower average daily rates ($169).
 

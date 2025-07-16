@@ -30,4 +30,6 @@ As you can see, we received an email from our teammate Billy, a Business Analyst
 
 ![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Excel.png)
 
-In the Excel file, there are two sheets: one contains the dataset, and the other contains the analysis prepared by our teammate. Next, we’re going to spend most of our time working in the analysis worksheet.
+In the Excel file, there are two sheets: one contains the dataset, and the other contains the analysis prepared by our teammate. Next, we’re going to spend most of our time working in the analysis worksheet. As you can see, we clearly have a lot to figure out, so it’s better to break it down into several parts.
+
+

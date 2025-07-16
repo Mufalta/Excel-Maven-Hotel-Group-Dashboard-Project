@@ -56,4 +56,11 @@ In this section, we analyzed revenue loss. The data shows that July and August a
 
 ### Strategic Overbooking Opportunity
 
+![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Strategic-Overbooking-Opportunity.png)
+
+In this section, we discovered a tactical opportunity to offset cancellation-related losses:  
+- **Short lead-time** bookings (0–30 days) have a lower cancellation rate (20%) and higher average daily rates ($191).
+- **Long lead-time** bookings (>30 days) have a higher cancellation rate (38%) and lower average daily rates ($169).
+
+---
 

@@ -11,6 +11,8 @@ First of all, a huge thanks to **Maven Analytics** for guiding me to build this 
 2. [Business Problem](#business-problem)
    - [Seasonality Analysis](#seasonality-analysis)
    - [Revenue Loss Analysis](#revenue-loss-analysis)
+   - [Lead Time Impact Analysis](#lead-time-impact-analysis)
+   - [Strategic Overbooking Opportunity](#strategic-overbooking-opportunity)
 
 ---
 
@@ -49,4 +51,9 @@ In this section, we analyzed seasonality to identify patterns in cancellation ra
 ![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Revenue-Loss-Analysis.png)
 
 In this section, we analyzed revenue loss. The data shows that July and August account for nearly $1,000,000 in revenue losses due to high cancellation rates, even though these months generate the highest revenue.
+
+---
+
+### Strategic Overbooking Opportunity
+
 

@@ -22,8 +22,8 @@ First of all, a huge thanks to **Maven Analytics** for guiding me to build this 
 
 This project involves:
 1. Creating a dashboard based on key insights during exploratory data analysis.
-2. Utilized column charts, combo charts, pivot charts, and stacked bar charts for effective visualization.
-3. Leverage the dashboard layout and text to clearly communicate key insights and business recommendations.
+2. Utilized pivot charts for effective visualization.
+3. Leverage the dashboard with text to clearly communicate key insights and business recommendations.
 
 ---
 

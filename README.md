@@ -17,6 +17,7 @@ First of all, a huge thanks to **Maven Analytics** for guiding me to build this 
    - [Visualizing Seasonality with a Combo Chart](#visualizing-seasonality-with-a-combo-chart)
    - [Visualizing Revenue Loss Analysis with a Combo Chart](#visualizing-revenue-loss-analysis-with-a-combo-chart)
    - [Visualizing Lead Time Impact Analysis with a Stacked Bar Chart](#visualizing-lead-time-impact-analysis-with-a-stacked-bar-chart)
+   - [Visualizing Strategic Overbooking Opportunity with a Bar Chart](#visualizing-strategic-overbooking-opportunity-with-a-bar-chart)
 
 ---
 
@@ -103,5 +104,13 @@ After creating our first chart, let’s move on to the next one, which is the re
 ![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Lead-Time-Impact-Analysis-Stacked-Bar-Chart.png)
 
 Next, we’re going to create a chart for the data in the lead time impact analysis pivot table. This time, we’ll use a different chart type because we want to visualize the composition of cancellations by lead time. A stacked bar chart is the perfect choice here, as it shows proportions clearly while taking up less space than a pie chart.
+
+---
+
+### Visualizing Strategic Overbooking Opportunity with a Bar Chart
+
+![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Strategic-Overbooking-Opportunity-Bar-Chart.png)
+
+Finally, we have the last insight to visualize: the data in the strategic overbooking opportunity pivot table. Here, we have two metrics categorized by lead time: the **cancellation rate** and the **average daily rate**. For this purpose, we will create two separate bar charts, one for the cancellation rate by lead time, and another for the average daily rate by lead time.
 
 ---

@@ -82,7 +82,9 @@ After understanding the business objective from those four key indicators, it’
 
 ### Visualizing Seasonality with a Combo Chart
 
+![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Seasonality-Analysis-Combo-Chart.png)
 
+This will be our first chart, so let’s start by looking at the pivot table we created for the seasonality analysis. In this pivot table, we have two metrics: the **cancellation rate** and the **average daily rate**. We want all the data from this pivot table to be reflected in the chart. Since we have two metrics to display, using a combo chart will be the perfect choice.
 
 
 

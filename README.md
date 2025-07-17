@@ -14,6 +14,7 @@ First of all, a huge thanks to **Maven Analytics** for guiding me to build this 
    - [Lead Time Impact Analysis](#lead-time-impact-analysis)
    - [Strategic Overbooking Opportunity](#strategic-overbooking-opportunity)
 3. [Creating Dashboard](#creating-dashboard)
+   - [Visualizing Seasonality with a Combo Chart](#visualizing-seasonality-with-a-combo-chart)
 
 ---
 
@@ -76,6 +77,12 @@ In this section, we discovered a tactical opportunity to offset cancellation-rel
 ## Creating Dashboard
 
 After understanding the business objective from those four key indicators, it’s now time to build the dashboard. However, before that, it’s best to first create the appropriate chart types for each key indicator identified in the previous analysis. Once we have the right charts for each indicator, we can seamlessly combine them into a comprehensive dashboard.
+
+---
+
+### Visualizing Seasonality with a Combo Chart
+
+
 
 
 

@@ -14,10 +14,12 @@ First of all, a huge thanks to **Maven Analytics** for guiding me to build this 
    - [Lead Time Impact Analysis](#lead-time-impact-analysis)
    - [Strategic Overbooking Opportunity](#strategic-overbooking-opportunity)
 3. [Creating Dashboard](#creating-dashboard)
-   - [Visualizing Seasonality with a Combo Chart](#visualizing-seasonality-with-a-combo-chart)
+   - [Visualizing Seasonality Analysis with a Combo Chart](#visualizing-seasonality-analysis-with-a-combo-chart)
    - [Visualizing Revenue Loss Analysis with a Combo Chart](#visualizing-revenue-loss-analysis-with-a-combo-chart)
    - [Visualizing Lead Time Impact Analysis with a Stacked Bar Chart](#visualizing-lead-time-impact-analysis-with-a-stacked-bar-chart)
    - [Visualizing Strategic Overbooking Opportunity with a Bar Chart](#visualizing-strategic-overbooking-opportunity-with-a-bar-chart)
+   - [Integrating Charts with Text into a Dashboard](#integrating-charts-with-text-into-a-dashboard)
+4. [Conclusion](#conclusion)
 
 ---
 
@@ -83,7 +85,7 @@ After understanding the business objective from those four key indicators, it’
 
 ---
 
-### Visualizing Seasonality with a Combo Chart
+### Visualizing Seasonality Analysis with a Combo Chart
 
 ![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Seasonality-Analysis-Combo-Chart.png)
 
@@ -114,3 +116,14 @@ Next, we’re going to create a chart for the data in the lead time impact analy
 Finally, we have the last insight to visualize: the data in the strategic overbooking opportunity pivot table. Here, we have two metrics categorized by lead time: the **cancellation rate** and the **average daily rate**. For this purpose, we will create two separate bar charts, one for the cancellation rate by lead time, and another for the average daily rate by lead time.
 
 ---
+
+### Integrating Charts with Text into a Dashboard
+
+All right, so far we’ve created different types of charts based on the analysis Billy had prepared. However, we still have a problem: **there’s no context** provided for each chart. For example, in the first chart, how can we know that the line chart represents as cancellation rate and the column chart represents as average daily rate?. To make these charts meaningful, we need to add context with clear text labels. Once we’ve added this context, we can combine the charts into a dashboard.
+
+![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Dashboard.png)
+
+---
+
+## Conclusion
+

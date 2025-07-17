@@ -127,3 +127,8 @@ All right, so far we’ve created different types of charts based on the analysi
 
 ## Conclusion
 
+Now, it’s time to walk through what our dashboard is telling us:
+
+### 📈 Seasonality Analysis
+
+We started by analyzing cancellation rates and average daily rates across months. The first chart shows that both cancellation rates and prices spike during the summer months (July and August), indicating seasonality. For example, in August 2017, the cancellation rate peaked at 39%, while the average daily rate reached its highest point. This pattern suggests that while we can charge higher prices during peak seasons, we also face higher cancellation rates.

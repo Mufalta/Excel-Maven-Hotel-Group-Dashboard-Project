@@ -15,6 +15,7 @@ First of all, a huge thanks to **Maven Analytics** for guiding me to build this 
    - [Strategic Overbooking Opportunity](#strategic-overbooking-opportunity)
 3. [Creating Dashboard](#creating-dashboard)
    - [Visualizing Seasonality with a Combo Chart](#visualizing-seasonality-with-a-combo-chart)
+   - [Visualizing Revenue Loss Analysis with a Combo Chart](#visualizing-revenue-loss-analysis-with-a-combo-chart)
 
 ---
 
@@ -86,6 +87,14 @@ After understanding the business objective from those four key indicators, it’
 
 This will be our first chart, so let’s start by looking at the pivot table we created for the seasonality analysis. In this pivot table, we have two metrics: the **cancellation rate** and the **average daily rate**. We want all the data from this pivot table to be reflected in the chart. Since we have two metrics to display, using a combo chart will be the perfect choice.
 
+---
 
+### Visualizing Revenue Loss Analysis with a Combo Chart
+
+![](https://github.com/Mufalta/Excel-Maven-Hotel-Group-Dashboard-Project/blob/main/images/Revenue-Loss-Analysis-Combo-Chart.png)
+
+After creating our first chart, let’s move on to the next one, which is the revenue loss analysis pivot table. Similar to the previous data, this pivot table has two metrics: the **revenue** and the **revenue loss**. We can still use a combo chart here, but since the revenue loss data is on a negative scale, it’s better to display both revenue and revenue loss as columns for clear comparison.
+
+---
 
 

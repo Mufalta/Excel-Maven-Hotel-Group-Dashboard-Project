@@ -132,3 +132,15 @@ Now, it’s time to walk through what our dashboard is telling us:
 ### 📈 Seasonality Analysis
 
 We started by analyzing cancellation rates and average daily rates across months. The first chart shows that both cancellation rates and prices spike during the summer months (July and August), indicating seasonality. For example, in August 2017, the cancellation rate peaked at 39%, while the average daily rate reached its highest point. This pattern suggests that while we can charge higher prices during peak seasons, we also face higher cancellation rates.
+
+### 💸 Revenue Loss Analysis
+
+Next, we examined revenue and revenue losses across each month. We found that the highest revenue months (July and August) are also the months with the largest revenue losses from cancellations, with losses totaling ~$1 million in July and August 2016. This means that while summer brings in more bookings, cancellations heavily impact our revenue during these months.
+
+### ⏳ Lead Time Impact Analysis
+
+We then explored the impact of lead time on cancellations, with bookings made within 30 days accounting for 17% of cancellations. This indicates that early bookings have a much higher cancellation risk, contributing significantly to our revenue losses.
+
+### 🎯 Strategic Overbooking Opportunity
+
+Finally, we looked into opportunities for strategic overbooking. We found that same-month bookings (0-30 days) have a lower cancellation rate (20%) and higher average daily rates ($191) compared to early bookings (38% cancellation rate and $169 ADR). This insight suggests that by overbooking during the summer, we can replace high-risk early bookings with low-risk, high-value same-month bookings, reducing cancellations while increasing revenue.
